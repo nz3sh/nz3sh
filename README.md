@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+ -🙋🏼It's me Nazis Sohail.
+ -📒I've done MSCS.
+ -🎋I'm interested in android app.internship program.
+ -🔭 I’m currently working on this app.
+ -👯 I’m looking to collaborate on pixiApp Technologies.
+ - 🤔 I’m looking for help with my colleagues in this part.
+ - 💬 Ask me about further development app.
+ -💡Persueing to more development apps.projects.
+ -🏌: love to play golf.
 <!--
 **nz3sh/nz3sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
